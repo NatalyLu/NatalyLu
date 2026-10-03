@@ -71,7 +71,7 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
 
 ## 📊 GitHub Stats
 
-<p>
+<div>
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=NatalyLu&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=Overview&title_color=581618&text_color=581618&icon_color=fdbcc8&border_color=cbdfa5&bg_color=fffafb&border_radius=12"
@@ -82,12 +82,31 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyLu&layout=compact&langs_count=8&custom_title=Languages&title_color=581618&text_color=581618&border_color=cbdfa5&bg_color=fffafb&border_radius=12"
     alt="Most used languages in repositories"
   >
-</p>
+  <p>
+    <sub>Most of my professional development activity is in private repositories.</sub>
+  </p>
+</div>
 
 ---
 
 ## 🌱 Contribution Activity
 
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
+      alt="Animated snake moving through NatalyLu's GitHub contribution graph"
+    >
+  </picture>
+</p>
 
 ---
 
