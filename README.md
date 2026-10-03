@@ -12,7 +12,23 @@
 
 I build interactive, responsive interfaces and enjoy solving complex UI challenges.
 
----
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      height="120"
+      src="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
+      alt="Animated snake moving through NatalyLu's GitHub contribution graph"
+    >
+  </picture>
+</p>
 
 ## 👩‍💻 About me
 
@@ -86,27 +102,6 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
     <sub>Most of my professional development activity is in private repositories.</sub>
   </p>
 </div>
-
----
-
-## 🌱 Contribution Activity
-
-<p>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
-    >
-    <img
-      src="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
-      alt="Animated snake moving through NatalyLu's GitHub contribution graph"
-    >
-  </picture>
-</p>
 
 ---
 
