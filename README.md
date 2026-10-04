@@ -125,23 +125,23 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
 
 <p>
   <a href="https://t.me/nataly_lu"><img
-    src="https://img.shields.io/badge/Telegram-edaa65?style=for-the-badge&logo=telegram&logoColor=321a10"
+    src="https://img.shields.io/badge/Telegram-e7680f?style=for-the-badge&logo=telegram&logoColor=fff8f1"
     alt="Nataly's Telegram"
   ></a>
   <a href="https://www.linkedin.com/in/natalia-kolchugina"><img
-    src="https://img.shields.io/badge/LinkedIn-edaa65?style=for-the-badge&logo=linkedin&logoColor=321a10"
+    src="https://img.shields.io/badge/LinkedIn-e7680f?style=for-the-badge&logo=linkedin&logoColor=fff8f1"
     alt="Nataly's LinkedIn"
   ></a>
   <a href="https://codepen.io/nataly_lu"><img
-    src="https://img.shields.io/badge/CodePen-edaa65?style=for-the-badge&logo=codepen&logoColor=321a10"
+    src="https://img.shields.io/badge/CodePen-e7680f?style=for-the-badge&logo=codepen&logoColor=fff8f1"
     alt="Nataly's CodePen"
   ></a>
   <a href="https://leetcode.com/nataly_lu"><img
-    src="https://img.shields.io/badge/LeetCode-edaa65?style=for-the-badge&logo=leetcode&logoColor=321a10"
+    src="https://img.shields.io/badge/LeetCode-e7680f?style=for-the-badge&logo=leetcode&logoColor=fff8f1"
     alt="Nataly's LeetCode"
   ></a>
   <a href="mailto:natalykolchugina@gmail.com"><img
-    src="https://img.shields.io/badge/Email-edaa65?style=for-the-badge&logo=gmail&logoColor=321a10"
+    src="https://img.shields.io/badge/Email-e7680f?style=for-the-badge&logo=gmail&logoColor=fff8f1"
     alt="Nataly's Email"
   ></a>
 </p>
