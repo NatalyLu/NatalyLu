@@ -1,9 +1,11 @@
 <!--
   Profile palette:
-    Burgundy: #581618
-    Pink:     #fdbcc8
-    Green:    #cbdfa5
-    Light:    #fffafb
+    Dark:         #321a10
+    Deep Rust:    #7f2709
+    Burnt Orange: #a73404
+    Orange:       #e7680f
+    Peach:        #edaa65
+    Light:        #fff8f1
 -->
 
 # <img src="./assets/wave.gif" width="34" alt=""> Hi! I'm Nataly
@@ -27,7 +29,8 @@ I build interactive, responsive interfaces and enjoy solving complex UI challeng
     alt="Animated snake moving through NatalyLu's GitHub contribution graph"
   >
 </picture>
-  
+
+<br>
 <br>
 
 ## 👩‍💻 About me
@@ -49,38 +52,38 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
 ### Core
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-581618?style=for-the-badge&logo=html5&logoColor=fffafb" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-581618?style=for-the-badge&logo=css&logoColor=fffafb" alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-581618?style=for-the-badge&logo=sass&logoColor=fffafb" alt="Sass">
-  <img src="https://img.shields.io/badge/Less-581618?style=for-the-badge&logo=less&logoColor=fffafb" alt="Less">
-  <img src="https://img.shields.io/badge/JavaScript-581618?style=for-the-badge&logo=javascript&logoColor=fffafb" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-581618?style=for-the-badge&logo=typescript&logoColor=fffafb" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-321a10?style=for-the-badge&logo=html5&logoColor=fff8f1" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-321a10?style=for-the-badge&logo=css&logoColor=fff8f1" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-321a10?style=for-the-badge&logo=sass&logoColor=fff8f1" alt="Sass">
+  <img src="https://img.shields.io/badge/Less-321a10?style=for-the-badge&logo=less&logoColor=fff8f1" alt="Less">
+  <img src="https://img.shields.io/badge/JavaScript-321a10?style=for-the-badge&logo=javascript&logoColor=fff8f1" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-321a10?style=for-the-badge&logo=typescript&logoColor=fff8f1" alt="TypeScript">
 </p>
 
 ### Frameworks & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Astro-581618?style=for-the-badge&logo=astro&logoColor=fffafb" alt="Astro">
-  <img src="https://img.shields.io/badge/React-581618?style=for-the-badge&logo=react&logoColor=fffafb" alt="React">
-  <img src="https://img.shields.io/badge/Preact-581618?style=for-the-badge&logo=preact&logoColor=fffafb" alt="Preact">
-  <img src="https://img.shields.io/badge/Gatsby-581618?style=for-the-badge&logo=gatsby&logoColor=fffafb" alt="Gatsby">
-  <img src="https://img.shields.io/badge/Shopify_Liquid-581618?style=for-the-badge&logo=shopify&logoColor=fffafb" alt="Shopify Liquid">
-  <img src="https://img.shields.io/badge/Storybook-581618?style=for-the-badge&logo=storybook&logoColor=fffafb" alt="Storybook">
+  <img src="https://img.shields.io/badge/Astro-321a10?style=for-the-badge&logo=astro&logoColor=fff8f1" alt="Astro">
+  <img src="https://img.shields.io/badge/React-321a10?style=for-the-badge&logo=react&logoColor=fff8f1" alt="React">
+  <img src="https://img.shields.io/badge/Preact-321a10?style=for-the-badge&logo=preact&logoColor=fff8f1" alt="Preact">
+  <img src="https://img.shields.io/badge/Gatsby-321a10?style=for-the-badge&logo=gatsby&logoColor=fff8f1" alt="Gatsby">
+  <img src="https://img.shields.io/badge/Shopify_Liquid-321a10?style=for-the-badge&logo=shopify&logoColor=fff8f1" alt="Shopify Liquid">
+  <img src="https://img.shields.io/badge/Storybook-321a10?style=for-the-badge&logo=storybook&logoColor=fff8f1" alt="Storybook">
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://img.shields.io/badge/Git-581618?style=for-the-badge&logo=git&logoColor=fffafb" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-581618?style=for-the-badge&logo=github&logoColor=fffafb" alt="GitHub">
-  <img src="https://img.shields.io/badge/Webpack-581618?style=for-the-badge&logo=webpack&logoColor=fffafb" alt="Webpack">
-  <img src="https://img.shields.io/badge/Gulp-581618?style=for-the-badge&logo=gulp&logoColor=fffafb" alt="Gulp">
-  <img src="https://img.shields.io/badge/Docker-581618?style=for-the-badge&logo=docker&logoColor=fffafb" alt="Docker">
-  <img src="https://img.shields.io/badge/Jest-581618?style=for-the-badge&logo=jest&logoColor=fffafb" alt="Jest">
-  <img src="https://img.shields.io/badge/Figma-581618?style=for-the-badge&logo=figma&logoColor=fffafb" alt="Figma">
-  <img src="https://img.shields.io/badge/Markdown-581618?style=for-the-badge&logo=markdown&logoColor=fffafb" alt="Markdown">
-  <img src="https://img.shields.io/badge/YAML-581618?style=for-the-badge&logo=yaml&logoColor=fffafb" alt="YAML">
-  <img src="https://img.shields.io/badge/REST_API-581618?style=for-the-badge&logoColor=fffafb" alt="REST API">
+  <img src="https://img.shields.io/badge/Git-321a10?style=for-the-badge&logo=git&logoColor=fff8f1" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-321a10?style=for-the-badge&logo=github&logoColor=fff8f1" alt="GitHub">
+  <img src="https://img.shields.io/badge/Webpack-321a10?style=for-the-badge&logo=webpack&logoColor=fff8f1" alt="Webpack">
+  <img src="https://img.shields.io/badge/Gulp-321a10?style=for-the-badge&logo=gulp&logoColor=fff8f1" alt="Gulp">
+  <img src="https://img.shields.io/badge/Docker-321a10?style=for-the-badge&logo=docker&logoColor=fff8f1" alt="Docker">
+  <img src="https://img.shields.io/badge/Jest-321a10?style=for-the-badge&logo=jest&logoColor=fff8f1" alt="Jest">
+  <img src="https://img.shields.io/badge/Figma-321a10?style=for-the-badge&logo=figma&logoColor=fff8f1" alt="Figma">
+  <img src="https://img.shields.io/badge/Markdown-321a10?style=for-the-badge&logo=markdown&logoColor=fff8f1" alt="Markdown">
+  <img src="https://img.shields.io/badge/YAML-321a10?style=for-the-badge&logo=yaml&logoColor=fff8f1" alt="YAML">
+  <img src="https://img.shields.io/badge/REST_API-321a10?style=for-the-badge&logoColor=fff8f1" alt="REST API">
 </p>
 
 <br>
@@ -95,7 +98,7 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
   <p>
     <img
       height="180"
-      src="https://streak-stats.demolab.com?user=NatalyLu&mode=weekly&background=fffafb&border=cbdfa5&stroke=cbdfa5&ring=581618&fire=fdbcc8&currStreakNum=581618&sideNums=581618&currStreakLabel=581618&sideLabels=581618&dates=581618&border_radius=12"
+      src="https://streak-stats.demolab.com?user=NatalyLu&mode=weekly&background=fff8f1&border=edaa65&stroke=edaa65&ring=7f2709&fire=e7680f&currStreakNum=321a10&sideNums=321a10&currStreakLabel=7f2709&sideLabels=7f2709&dates=a73404&border_radius=12"
       alt="GitHub contribution streak statistics"
     >
   </p>
@@ -108,7 +111,7 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
 
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyLu&layout=compact&langs_count=6&hide=Shell,PHP&size_weight=0.5&count_weight=0.5&custom_title=Languages&title_color=581618&text_color=581618&border_color=cbdfa5&bg_color=fffafb&border_radius=12"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyLu&layout=compact&langs_count=6&hide=Shell,PHP&size_weight=0.5&count_weight=0.5&custom_title=Languages&title_color=7f2709&text_color=321a10&border_color=edaa65&bg_color=fff8f1&border_radius=12"
       alt="Most used languages in public repositories"
     >
   </p>
@@ -123,23 +126,23 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
 
 <p>
   <a href="https://t.me/nataly_lu"><img
-    src="https://img.shields.io/badge/Telegram-fdbcc8?style=for-the-badge&logo=telegram&logoColor=581618"
+    src="https://img.shields.io/badge/Telegram-edaa65?style=for-the-badge&logo=telegram&logoColor=321a10"
     alt="Nataly's Telegram"
   ></a>
   <a href="https://www.linkedin.com/in/natalia-kolchugina"><img
-    src="https://img.shields.io/badge/LinkedIn-fdbcc8?style=for-the-badge&logo=linkedin&logoColor=581618"
+    src="https://img.shields.io/badge/LinkedIn-edaa65?style=for-the-badge&logo=linkedin&logoColor=321a10"
     alt="Nataly's LinkedIn"
   ></a>
   <a href="https://codepen.io/nataly_lu"><img
-    src="https://img.shields.io/badge/CodePen-fdbcc8?style=for-the-badge&logo=codepen&logoColor=581618"
+    src="https://img.shields.io/badge/CodePen-edaa65?style=for-the-badge&logo=codepen&logoColor=321a10"
     alt="Nataly's CodePen"
   ></a>
   <a href="https://leetcode.com/nataly_lu"><img
-    src="https://img.shields.io/badge/LeetCode-fdbcc8?style=for-the-badge&logo=leetcode&logoColor=581618"
+    src="https://img.shields.io/badge/LeetCode-edaa65?style=for-the-badge&logo=leetcode&logoColor=321a10"
     alt="Nataly's LeetCode"
   ></a>
   <a href="mailto:natalykolchugina@gmail.com"><img
-    src="https://img.shields.io/badge/Email-fdbcc8?style=for-the-badge&logo=gmail&logoColor=581618"
+    src="https://img.shields.io/badge/Email-edaa65?style=for-the-badge&logo=gmail&logoColor=321a10"
     alt="Nataly's Email"
   ></a>
 </p>
