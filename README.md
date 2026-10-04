@@ -83,7 +83,6 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
   <img src="https://img.shields.io/badge/Figma-7f2709?style=for-the-badge&logo=figma&logoColor=fff8f1" alt="Figma">
   <img src="https://img.shields.io/badge/Markdown-7f2709?style=for-the-badge&logo=markdown&logoColor=fff8f1" alt="Markdown">
   <img src="https://img.shields.io/badge/YAML-7f2709?style=for-the-badge&logo=yaml&logoColor=fff8f1" alt="YAML">
-  <img src="https://img.shields.io/badge/REST_API-7f2709?style=for-the-badge&logoColor=fff8f1" alt="REST API">
 </p>
 
 <br>
