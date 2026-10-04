@@ -7,25 +7,76 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: snake-${{ github.repository }}
+  cancel-in-progress: true
 
 jobs:
   generate:
+    name: Generate snake SVG
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@FULL_40_CHARACTER_COMMIT_SHA
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#581618&color_dots=#fffafb,#fbe8ec,#fdbcc8,#cbdfa5,#91ad64
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#fdbcc8&color_dots=#161b22,#46282d,#714047,#77905d,#cbdfa5
+            dist/github-contribution-grid-snake.svg?color_snake=%23321a10&color_dots=%23fff8f1,%23edaa65,%23e7680f,%23a73404,%237f2709
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23321a10&color_dots=%2317110c,%23321a10,%237f2709,%23a73404,%23edaa65
 
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Upload generated snake artifact
+        uses: actions/upload-artifact@v4
         with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: contribution-snake-svg
+          path: dist
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    name: Publish snake to output branch
+    runs-on: ubuntu-latest
+    needs: generate
+
+    permissions:
+      actions: read
+      contents: write
+
+    steps:
+      - name: Check out output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output
+
+      - name: Download generated snake artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: contribution-snake-svg
+          path: dist
+
+      - name: Copy updated SVG files
+        run: |
+          cp dist/github-contribution-grid-snake.svg output/
+          cp dist/github-contribution-grid-snake-dark.svg output/
+
+      - name: Commit and push changes
+        working-directory: output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update contribution snake"
+          git push
