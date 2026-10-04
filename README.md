@@ -52,38 +52,38 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
 ### Core
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-321a10?style=for-the-badge&logo=html5&logoColor=fff8f1" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-321a10?style=for-the-badge&logo=css&logoColor=fff8f1" alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-321a10?style=for-the-badge&logo=sass&logoColor=fff8f1" alt="Sass">
-  <img src="https://img.shields.io/badge/Less-321a10?style=for-the-badge&logo=less&logoColor=fff8f1" alt="Less">
-  <img src="https://img.shields.io/badge/JavaScript-321a10?style=for-the-badge&logo=javascript&logoColor=fff8f1" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-321a10?style=for-the-badge&logo=typescript&logoColor=fff8f1" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-7f2709?style=for-the-badge&logo=html5&logoColor=fff8f1" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-7f2709?style=for-the-badge&logo=css&logoColor=fff8f1" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-7f2709?style=for-the-badge&logo=sass&logoColor=fff8f1" alt="Sass">
+  <img src="https://img.shields.io/badge/Less-7f2709?style=for-the-badge&logo=less&logoColor=fff8f1" alt="Less">
+  <img src="https://img.shields.io/badge/JavaScript-7f2709?style=for-the-badge&logo=javascript&logoColor=fff8f1" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-7f2709?style=for-the-badge&logo=typescript&logoColor=fff8f1" alt="TypeScript">
 </p>
 
 ### Frameworks & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Astro-321a10?style=for-the-badge&logo=astro&logoColor=fff8f1" alt="Astro">
-  <img src="https://img.shields.io/badge/React-321a10?style=for-the-badge&logo=react&logoColor=fff8f1" alt="React">
-  <img src="https://img.shields.io/badge/Preact-321a10?style=for-the-badge&logo=preact&logoColor=fff8f1" alt="Preact">
-  <img src="https://img.shields.io/badge/Gatsby-321a10?style=for-the-badge&logo=gatsby&logoColor=fff8f1" alt="Gatsby">
-  <img src="https://img.shields.io/badge/Shopify_Liquid-321a10?style=for-the-badge&logo=shopify&logoColor=fff8f1" alt="Shopify Liquid">
-  <img src="https://img.shields.io/badge/Storybook-321a10?style=for-the-badge&logo=storybook&logoColor=fff8f1" alt="Storybook">
+  <img src="https://img.shields.io/badge/Astro-7f2709?style=for-the-badge&logo=astro&logoColor=fff8f1" alt="Astro">
+  <img src="https://img.shields.io/badge/React-7f2709?style=for-the-badge&logo=react&logoColor=fff8f1" alt="React">
+  <img src="https://img.shields.io/badge/Preact-7f2709?style=for-the-badge&logo=preact&logoColor=fff8f1" alt="Preact">
+  <img src="https://img.shields.io/badge/Gatsby-7f2709?style=for-the-badge&logo=gatsby&logoColor=fff8f1" alt="Gatsby">
+  <img src="https://img.shields.io/badge/Shopify_Liquid-7f2709?style=for-the-badge&logo=shopify&logoColor=fff8f1" alt="Shopify Liquid">
+  <img src="https://img.shields.io/badge/Storybook-7f2709?style=for-the-badge&logo=storybook&logoColor=fff8f1" alt="Storybook">
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://img.shields.io/badge/Git-321a10?style=for-the-badge&logo=git&logoColor=fff8f1" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-321a10?style=for-the-badge&logo=github&logoColor=fff8f1" alt="GitHub">
-  <img src="https://img.shields.io/badge/Webpack-321a10?style=for-the-badge&logo=webpack&logoColor=fff8f1" alt="Webpack">
-  <img src="https://img.shields.io/badge/Gulp-321a10?style=for-the-badge&logo=gulp&logoColor=fff8f1" alt="Gulp">
-  <img src="https://img.shields.io/badge/Docker-321a10?style=for-the-badge&logo=docker&logoColor=fff8f1" alt="Docker">
-  <img src="https://img.shields.io/badge/Jest-321a10?style=for-the-badge&logo=jest&logoColor=fff8f1" alt="Jest">
-  <img src="https://img.shields.io/badge/Figma-321a10?style=for-the-badge&logo=figma&logoColor=fff8f1" alt="Figma">
-  <img src="https://img.shields.io/badge/Markdown-321a10?style=for-the-badge&logo=markdown&logoColor=fff8f1" alt="Markdown">
-  <img src="https://img.shields.io/badge/YAML-321a10?style=for-the-badge&logo=yaml&logoColor=fff8f1" alt="YAML">
-  <img src="https://img.shields.io/badge/REST_API-321a10?style=for-the-badge&logoColor=fff8f1" alt="REST API">
+  <img src="https://img.shields.io/badge/Git-7f2709?style=for-the-badge&logo=git&logoColor=fff8f1" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-7f2709?style=for-the-badge&logo=github&logoColor=fff8f1" alt="GitHub">
+  <img src="https://img.shields.io/badge/Webpack-7f2709?style=for-the-badge&logo=webpack&logoColor=fff8f1" alt="Webpack">
+  <img src="https://img.shields.io/badge/Gulp-7f2709?style=for-the-badge&logo=gulp&logoColor=fff8f1" alt="Gulp">
+  <img src="https://img.shields.io/badge/Docker-7f2709?style=for-the-badge&logo=docker&logoColor=fff8f1" alt="Docker">
+  <img src="https://img.shields.io/badge/Jest-7f2709?style=for-the-badge&logo=jest&logoColor=fff8f1" alt="Jest">
+  <img src="https://img.shields.io/badge/Figma-7f2709?style=for-the-badge&logo=figma&logoColor=fff8f1" alt="Figma">
+  <img src="https://img.shields.io/badge/Markdown-7f2709?style=for-the-badge&logo=markdown&logoColor=fff8f1" alt="Markdown">
+  <img src="https://img.shields.io/badge/YAML-7f2709?style=for-the-badge&logo=yaml&logoColor=fff8f1" alt="YAML">
+  <img src="https://img.shields.io/badge/REST_API-7f2709?style=for-the-badge&logoColor=fff8f1" alt="REST API">
 </p>
 
 <br>
