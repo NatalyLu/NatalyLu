@@ -12,23 +12,23 @@
 
 I build interactive, responsive interfaces and enjoy solving complex UI challenges.
 
-<p>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
-    >
-    <img
-      height="120"
-      src="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
-      alt="Animated snake moving through NatalyLu's GitHub contribution graph"
-    >
-  </picture>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    height="120"
+    src="https://raw.githubusercontent.com/NatalyLu/NatalyLu/output/github-contribution-grid-snake.svg"
+    alt="Animated snake moving through NatalyLu's GitHub contribution graph"
+  >
+</picture>
+  
+<br>
 
 ## 👩‍💻 About me
 
@@ -42,7 +42,7 @@ I especially enjoy complex UI and layout challenges, CSS and preprocessors, refa
 
 Outside of development, I love traveling and hiking ⛰️, science lectures 🎓, music 🎵, and knitting 🧶. I enjoy constantly learning something new and switching between outdoor adventures, creative projects, and intellectual pursuits.
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -83,27 +83,41 @@ Outside of development, I love traveling and hiking ⛰️, science lectures �
   <img src="https://img.shields.io/badge/REST_API-581618?style=for-the-badge&logoColor=fffafb" alt="REST API">
 </p>
 
----
+<br>
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
-<div>
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=NatalyLu&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=Overview&title_color=581618&text_color=581618&icon_color=fdbcc8&border_color=cbdfa5&bg_color=fffafb&border_radius=12"
-    alt="GitHub statistics"
-  >
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyLu&layout=compact&langs_count=8&custom_title=Languages&title_color=581618&text_color=581618&border_color=cbdfa5&bg_color=fffafb&border_radius=12"
-    alt="Most used languages in repositories"
-  >
+<details>
+  <summary><b>🔥 Streaks</b></summary>
+
+  <br>
+
+  <p>
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com?user=NatalyLu&mode=weekly&background=fffafb&border=cbdfa5&stroke=cbdfa5&ring=581618&fire=fdbcc8&currStreakNum=581618&sideNums=581618&currStreakLabel=581618&sideLabels=581618&dates=581618&border_radius=12"
+      alt="GitHub contribution streak statistics"
+    >
+  </p>
+</details>
+
+<details>
+  <summary><b>🧩 Languages</b></summary>
+
+  <br>
+
+  <p>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyLu&layout=compact&langs_count=6&hide=Shell,PHP&size_weight=0.5&count_weight=0.5&custom_title=Languages&title_color=581618&text_color=581618&border_color=cbdfa5&bg_color=fffafb&border_radius=12"
+      alt="Most used languages in public repositories"
+    >
+  </p>
   <p>
     <sub>Most of my professional development activity is in private repositories.</sub>
   </p>
-</div>
+</details>
 
----
+<br>
 
 ## 🤝 Connect with me
 
