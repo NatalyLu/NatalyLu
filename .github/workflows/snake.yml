@@ -23,7 +23,7 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@FULL_40_CHARACTER_COMMIT_SHA
+        uses: Platane/snk/svg-only@d8f6715
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
